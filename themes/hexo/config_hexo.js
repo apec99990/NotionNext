@@ -1,7 +1,7 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
   //HOME_BANNER_GREETINGS: ['Hi，我是一个程序员', 'Hi，我是一个打工人', 'Hi，我是一个干饭人', '欢迎来到我的博客🎉'], // 首页大图标语文字
-  HOME_BANNER_GREETINGS: ['监督保障执行  促进完善发展'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['————联通研究院警示教育心得体会展'], // 首页大图标语文字
 
   HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
   //HOME_NAV_BUTTONS: false, // 首页是否显示分类大图标按钮
