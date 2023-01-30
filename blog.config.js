@@ -10,7 +10,7 @@ const BLOG = {
   SINCE: 2021, // e.g if leave this empty, current year will be used.
   APPEARANCE: 'light', // ['light', 'dark', 'auto'], // light 日间模式 ， dark夜间模式， auto根据时间和主题自动夜间模式
 
-  AUTHOR: '联通研究院', // 作者
+  AUTHOR: '联通', // 作者
   BIO: '我们是纪律的捍卫者，我们是制度的守护者，我们是员工的服务者，我们是研究院高质量发展的护航者，研究院纪委在行动！！！', // 作者简介
   //LINK: 'https://tangly1024.com', // 网站地址
   //KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
